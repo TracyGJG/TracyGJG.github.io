@@ -1,3 +1,11 @@
+body {
+    height: 100vh;
+    margin: 0;
+    padding: 1em;
+    box-sizing: border-box;
+    background-color: #DDD;
+}
+
 section {
     margin: 2em;
     padding: 1em;
