@@ -1,5 +1,7 @@
 section {
-    width: 30ch;
+    margin: 2em;
+    padding: 1em;
+    width: 40ch;
     min-height: 5ch;
     border: 1px solid #777;
 }
