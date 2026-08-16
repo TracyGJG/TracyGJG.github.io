@@ -13,4 +13,5 @@ div {
     min-height: 5ch;
     border: 1px solid #777;
     background-color: #EEE;
+    float: left; /* old but works */
 }
